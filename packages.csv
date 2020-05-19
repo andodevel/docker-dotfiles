@@ -1,0 +1,9 @@
+optional;name;desc
+;git;
+;vim + vim-plug;
+;nvim + vim-plug;
+;tmux;
+;fzf;
+;silversearcher-ag;
+;net-tools;
+true;nmap;
