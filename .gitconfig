@@ -110,6 +110,7 @@
 	precomposeunicode = false
 	autocrlf = input
 	eol = lf
+	editor = nvim
 
 [color]
 
